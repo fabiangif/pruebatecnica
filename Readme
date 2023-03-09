@@ -5,7 +5,7 @@ Este es un servidor de ejecución Express.js, con API "Node.js" (La API es escal
 Para empezar el proyecto, tendrá que tener instalado Node en su ordenador. Abrirá una terminal y se ubicará en la ruta
 "Prueba tecnica\pruebabackend\APIREST" y escribirá el comando "node app.js". En la ruta "http://localhost:3003/" podrá visualizar la API más clara, encontrará el End-point de peticiones en la parte de arriba.
 
-Siguiente a ello creará en la ruta "Prueba tecnica/pruebabackend/api" y cree un archivo con nombre ".env" y ahí pondrá la siguiente información:
+Siguiente a ello irá a la ruta "Prueba tecnica/pruebabackend/api" y creará un archivo con nombre ".env" y ahí pondrá la siguiente información:
 
 DB_USER= remplazar con usuario de postgres
 DB_PASSWORD= reemplazar con contraseña de postgres
