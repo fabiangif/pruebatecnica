@@ -1,0 +1,17 @@
+Bienvenido.
+
+Este es un servidor de ejecucion Express.js, con API "Node.js" y Base de Datos relacionales SQL (Sequelize) con uso de PostgreSQL. Todo fue pensado para un proyecto escalable, que sea reutilizable y su solidez impecable. Se pensó de manera que su organizacion y lectura sea mucho mas facil y sencilla.
+
+Para empezar el proyecto, trendra que tener instaldo Node en su ordenador. Abrira una terminal y se ubicará en la ruta
+"Prueba tecnica\pruebabackend\APIREST" y escribirá el comando "node app.js". En la ruta "http://localhost:3003/" podrá visualizar la API mas clara, encontrará el End-point de peticiones en la parte de arriba.
+
+Siguiente a ello abrirá otra terminal, irá a la ruta "Prueba tecnica\pruebabackend\api", escribirá el comando "npm install" y siguiente a ello un npm start para inicializar el servidor las funcionalidades del mismo. La ruta "Pruebatecnica\pruebabackend\api\src\routes" encontrará todos los End-Points del servidor para poder comunicarlo con el Front-End en Redux o cualquier otra libreria que lo permita.
+
+Para el registro e ingreso de Usuarios, se usó validaciones desde las bases de datos para así tener mayor seguridad dentro del ambiente. En la base de datos encontrará toda la informacion de la API guardadá por si es de su preferencia sacarla de ahí mismo. Tambien encontrará el End-point para mapearlos y poder mostrar una previsualizacion en el cliente al iniciar la Aplicacion Web.
+
+Las funcionalidades del carrito estan en prueba, no están finalizadas debido a que con mi conocimiento debería complementarlo con la parte del cliente en React, de igual manera encontrará las funcionalidades para agregar al carrito con producto y precio.
+
+El usuario podrá previsualizar todos los productos en el cliente y en el carrito.
+
+
+
